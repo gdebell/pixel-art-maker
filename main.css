@@ -1,0 +1,41 @@
+.pixel {
+  background: white;
+  height: 25px;
+  width: 25px;
+  border: 1px solid #e5e5e5;
+  float: left;
+  display: inline-block;
+}
+
+.paint-color {
+  border: 1px solid black;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  float: left;
+  display: inline-block;;
+}
+
+.red {
+  background: red;
+}
+
+.orange {
+  background: orange;
+}
+
+.yellow {
+  background: yellow;
+}
+
+.purple {
+  background: purple;
+}
+
+.blue {
+  background: blue;
+}
+
+.green {
+  background: green;
+}
